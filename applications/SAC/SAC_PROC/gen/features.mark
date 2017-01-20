@@ -1,0 +1,9 @@
+Model Class,id
+Model Class,soa_remote
+Model Class,key_letter
+Component,number
+Port,key_letter
+Function,soa_remote
+Function,scenario
+Function,test_only
+Function,external
